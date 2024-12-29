@@ -1,16 +1,15 @@
 # My first web page repository
-
-This is the repository of the activity III.
-
-## Actions activity iii
-
 - Added the basic structure to the html file.
 - Added footer and header.
 - Added images for content section.
 - Added content and menu.
-
-## Actions activity iv
-
 - Added styles.css file in css folder.
 - Added styles.css in the index file as link.
-- Added about.html page and modify links and styles of the header menu.
+- Added about.html page.
+- Added contact.html page.
+- Added degree.html page.
+- Added fce.html page.
+- Added net.html page.
+- Added topic.html page.
+- Added UFV logo photo and its corresponding link in the header.
+- Added my classmates webpages links in the net.html page.
