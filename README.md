@@ -13,3 +13,4 @@
 - Added topic.html page.
 - Added UFV logo photo and its corresponding link in the header.
 - Added my classmates webpages links in the net.html page.
+- Created a table for the degree.html file with the corresponding information.

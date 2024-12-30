@@ -71,7 +71,7 @@ nav a.active {
     text-decoration: underline;
 }
 
-.content {
+.content-topic{
     height: 1150px;
     display: flex;
     flex-direction: column;
@@ -137,5 +137,41 @@ nav a.active {
 
 p {
     margin: 15px;
+    text-align: center;
 }
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+
+}
+
+th, td {
+    border: 1.5px solid black;
+    padding: 15px;
+    text-align: center;
+}
+
+
+
 
