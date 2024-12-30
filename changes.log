@@ -1,0 +1,155 @@
+commit f1b7dd9d1aaafbfabbd051d4b15482eedfe746e0
+Author: Fontecha111 <9404133@alumnos.ufv.es>
+Date:   Mon Dec 30 19:22:20 2024 +0100
+
+    Fixing photos
+
+commit 1277569f530fdd32277fd38687253790a7b7e2f8
+Author: Fontecha111 <9404133@alumnos.ufv.es>
+Date:   Mon Dec 30 19:16:19 2024 +0100
+
+    Aded the gitignore
+
+commit 125a1aa787e1262eef4c5e36a9f20efe278a8be2
+Author: Fontecha111 <9404133@alumnos.ufv.es>
+Date:   Mon Dec 30 19:12:55 2024 +0100
+
+    Changes to topic file with link
+
+commit bdbd2de462a891744114aabea679751ae1becd49
+Author: Fontecha111 <9404133@alumnos.ufv.es>
+Date:   Mon Dec 30 18:50:11 2024 +0100
+
+    Fixing problems
+
+commit 5434e190e0cac0bf70be895f1ba6cb4e80c18a19
+Author: Fontecha111 <9404133@alumnos.ufv.es>
+Date:   Mon Dec 30 18:47:15 2024 +0100
+
+    Fixing problems
+
+commit 82a3bbe5b13fabdf8e935ca8b26a8715d78f5632
+Author: Fontecha111 <9404133@alumnos.ufv.es>
+Date:   Mon Dec 30 18:36:34 2024 +0100
+
+    Fixing images paths
+
+commit e08be0c26ec3e3301f23915af177d06c89bad60e
+Author: Fontecha111 <9404133@alumnos.ufv.es>
+Date:   Mon Dec 30 18:25:11 2024 +0100
+
+    Changing images paths
+
+commit 26106357df26c1fc0e821ae20a01d35ced1041eb
+Author: Fontecha111 <9404133@alumnos.ufv.es>
+Date:   Mon Dec 30 18:15:14 2024 +0100
+
+    Added changes to the photos in index.html
+
+commit 57167795f796b3d610fcf9dff172cf6d5d7efc97
+Author: Fontecha111 <9404133@alumnos.ufv.es>
+Date:   Mon Dec 30 18:13:06 2024 +0100
+
+    Added a button in degree.html with a link to fce.html
+
+commit 7c1ca344ab46e8adf969973da9b4c2dfb4d73c7a
+Author: Fontecha111 <9404133@alumnos.ufv.es>
+Date:   Mon Dec 30 18:02:05 2024 +0100
+
+    Modified the README file with the difficulties and conclusion of the work
+
+commit b82a6885cc200bdd8526ad476209e75534955958
+Author: Fontecha111 <9404133@alumnos.ufv.es>
+Date:   Mon Dec 30 17:37:42 2024 +0100
+
+    Change the photos rutes in the index.html
+
+commit 21ecf8f407cf3b9b4981356f6ad888d36977fbbe
+Author: Fontecha111 <9404133@alumnos.ufv.es>
+Date:   Mon Dec 30 17:02:10 2024 +0100
+
+    Net.html file finished
+
+commit 702588486d947056e400000de2cd78254feaeba0
+Author: Fontecha111 <9404133@alumnos.ufv.es>
+Date:   Mon Dec 30 16:59:53 2024 +0100
+
+    Added the net.html file and added the links from my classmates
+
+commit 191b350833dc5fef2de9e4ba857a3e5c5716b4c0
+Author: Fontecha111 <9404133@alumnos.ufv.es>
+Date:   Mon Dec 30 16:58:20 2024 +0100
+
+    Added my personal topic about Motocross
+
+commit 29cc346d33d03969f07693d2973568d9fdf56467
+Author: Fontecha111 <9404133@alumnos.ufv.es>
+Date:   Mon Dec 30 14:45:29 2024 +0100
+
+    Modifying files
+
+commit c54d5cab741f3f9b2248560037bc03bc50e832f9
+Author: Fontecha111 <9404133@alumnos.ufv.es>
+Date:   Mon Dec 30 14:43:46 2024 +0100
+
+    Adding topic.html page and other chagnes
+
+commit af10440d4d54cc89ec86c97f512d6c957e360cb8
+Author: Fontecha111 <9404133@alumnos.ufv.es>
+Date:   Sun Dec 29 22:23:13 2024 +0100
+
+    Adding photos
+
+commit 719a833fa9cb257aa7daeb1811bcd7f63a0ca103
+Author: Fontecha111 <9404133@alumnos.ufv.es>
+Date:   Sun Dec 29 22:14:50 2024 +0100
+
+    Adding degree.html and other changes
+
+commit 4d1e89f77bb1c8df2a70a6dc1c4ff5ef1dbaf5b0
+Author: Fontecha111 <9404133@alumnos.ufv.es>
+Date:   Sun Dec 29 22:08:23 2024 +0100
+
+    Adding contact.html page and other changes
+
+commit dcaba2a3e07abc84b5985b6e6736531adf7006a4
+Author: Fontecha111 <9404133@alumnos.ufv.es>
+Date:   Sat Dec 28 16:12:23 2024 +0100
+
+    Adding about.html page and other changes
+
+commit 64698fec312394a18bb5143d009d991d368a2a15
+Author: Fontecha111 <9404133@alumnos.ufv.es>
+Date:   Sat Dec 28 14:44:21 2024 +0100
+
+    Adding css file and some changes in README file
+
+commit f1f09fe3a07e65f5a4b219bc0ffe86175ad5143d
+Author: Fontecha111 <9404133@alumnos.ufv.es>
+Date:   Sun Dec 15 19:09:25 2024 +0100
+
+    Adding content in html and images folder
+
+commit 2f0f621c8c3ae5484f91fd54fc7128fad5a478f5
+Author: Fontecha111 <9404133@alumnos.ufv.es>
+Date:   Sun Dec 15 19:03:56 2024 +0100
+
+    Adding header and footer in html file, styles are included too
+
+commit e0fa51c8cc90aa2f16c75d468ea9ccbc926ace3e
+Author: Fontecha111 <9404133@alumnos.ufv.es>
+Date:   Sun Dec 15 18:57:58 2024 +0100
+
+    Adding basic structure in html file
+
+commit 829bb7e69509919149a72de7ef4898da3288b4a6
+Author: Fontecha111 <9404133@alumnos.ufv.es>
+Date:   Sun Dec 15 18:45:54 2024 +0100
+
+    Adding basic structure in html file
+
+commit 297a644140904f9c8995d02f0d734dbc7b456a7e
+Author: Fontecha111 <9404133@alumnos.ufv.es>
+Date:   Sun Dec 15 18:26:37 2024 +0100
+
+    Initial commit
